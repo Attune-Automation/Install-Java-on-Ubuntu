@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "d94e14d1-2dfb-4f76-a473-b23099fb8ff7", 
+    "interpreter": 1, 
+    "key": "addthejavarepository", 
+    "name": "Add the Java Repository", 
+    "osCredKey": "ubuntusudouser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

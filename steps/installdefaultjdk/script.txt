@@ -1,0 +1,3 @@
+apt update
+apt install default-jdk -y
+javac -version

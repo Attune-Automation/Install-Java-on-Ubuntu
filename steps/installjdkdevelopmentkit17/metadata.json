@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "831834e5-7ef0-4591-8fbd-1bcb8c6322bd", 
+    "interpreter": 1, 
+    "key": "installjdkdevelopmentkit17", 
+    "name": "Install JDK Development Kit 17", 
+    "osCredKey": "ubuntusudouser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

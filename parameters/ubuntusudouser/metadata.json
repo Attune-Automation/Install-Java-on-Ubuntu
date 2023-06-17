@@ -1,0 +1,7 @@
+{
+    "externalUuid4": "f227e835-449c-44df-9e22-99df77f21fc9", 
+    "key": "ubuntusudouser", 
+    "name": "Ubuntu Sudo User", 
+    "showInPlan": true, 
+    "type": "c.s.s.b.phv.LinOsCred"
+}

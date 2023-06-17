@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "e1adc9f3-1190-423f-beb6-a537272efb40", 
+    "interpreter": 1, 
+    "key": "importthesigningkey", 
+    "name": "Import the signing key", 
+    "osCredKey": "ubuntusudouser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

@@ -1,0 +1,31 @@
+{
+    "concurrency": 1, 
+    "enabled": true, 
+    "externalUuid4": "fded9ce5-0608-453e-b9f8-1fab25a302fa", 
+    "isBlueprint": true, 
+    "key": "installjavajdk17withaptonubuntu", 
+    "links": [
+        {
+            "order": 150, 
+            "stepKey": "installsoftwarepropertiescommonpackage"
+        }, 
+        {
+            "order": 200, 
+            "stepKey": "importthesigningkey"
+        }, 
+        {
+            "order": 250, 
+            "stepKey": "addthejavarepository"
+        }, 
+        {
+            "order": 300, 
+            "stepKey": "installjdkdevelopmentkit17"
+        }, 
+        {
+            "order": 400, 
+            "stepKey": "settheoraclejdkjavahomeenvironmentpath"
+        }
+    ], 
+    "name": "Install Java JDK 17 with Apt on Ubuntu", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

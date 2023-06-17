@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "fcd07c65-5a14-4b4b-81e7-1c9f472037a7", 
+    "interpreter": 1, 
+    "key": "settheoraclejdkjavahomeenvironmentpath", 
+    "name": "Set the Oracle JDK JAVA_HOME Environment Path", 
+    "osCredKey": "ubuntusudouser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

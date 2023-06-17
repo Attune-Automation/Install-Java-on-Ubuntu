@@ -1,0 +1,23 @@
+{
+    "concurrency": 1, 
+    "enabled": true, 
+    "externalUuid4": "38afe7dd-047a-4888-ba75-f46e73e48e73", 
+    "isBlueprint": true, 
+    "key": "installthedefaultjrejdk", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "installdefaultjre"
+        }, 
+        {
+            "order": 50, 
+            "stepKey": "installdefaultjdk"
+        }, 
+        {
+            "order": 100, 
+            "stepKey": "setthedefaultjdkjavahomeenvironmentpath"
+        }
+    ], 
+    "name": "Install the Default JRE/JDK", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

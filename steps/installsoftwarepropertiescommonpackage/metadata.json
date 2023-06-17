@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "90d99f71-63af-4eda-bbf4-765ab8d22c6c", 
+    "interpreter": 1, 
+    "key": "installsoftwarepropertiescommonpackage", 
+    "name": "Install Software Properties Common Package", 
+    "osCredKey": "ubuntusudouser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

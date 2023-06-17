@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "563837ea-f9b4-4b41-8b62-d29c74173148", 
+    "interpreter": 1, 
+    "key": "installdefaultjdk", 
+    "name": "Install Default JDK", 
+    "osCredKey": "ubuntuuser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}
