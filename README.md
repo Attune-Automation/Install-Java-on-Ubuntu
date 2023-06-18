@@ -62,11 +62,21 @@ This Project contains the following Blueprints.
 
 ### Install Default JRE/JDK with Apt on Ubuntu
 
+Attune Automation Project to install the Default JRE/JDK on Ubuntu.
+
 The easiest option for installing Java is to use the version packaged with 
 Ubuntu.
 
 ### Install Oracle JDK 17 with Apt on Ubuntu
 
+Attune Automation Project to install Oracle JDK on Ubuntu.
+
+The JDK (Java Development Kit) is an essential software development 
+environment for Java platform programming. It encompasses a comprehensive 
+Java Runtime Environment (JRE), often referred to as a private runtime. The 
+term 'private runtime' signifies that it includes additional tools beyond 
+the standalone JRE, along with all the necessary components required for 
+Java application development.
 
 
 
