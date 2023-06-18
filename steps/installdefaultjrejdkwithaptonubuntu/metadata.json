@@ -3,7 +3,7 @@
     "enabled": true, 
     "externalUuid4": "38afe7dd-047a-4888-ba75-f46e73e48e73", 
     "isBlueprint": true, 
-    "key": "installthedefaultjrejdk", 
+    "key": "installdefaultjrejdkwithaptonubuntu", 
     "links": [
         {
             "order": 0, 
@@ -18,6 +18,6 @@
             "stepKey": "setthedefaultjdkjavahomeenvironmentpath"
         }
     ], 
-    "name": "Install the Default JRE/JDK", 
+    "name": "Install Default JRE/JDK with Apt on Ubuntu", 
     "type": "com.servertribe.attune.tuples.StepGroupTuple"
 }

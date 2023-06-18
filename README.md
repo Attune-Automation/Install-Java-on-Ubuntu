@@ -60,13 +60,13 @@ This Project contains the following Blueprints.
 
 
 
-### Install Java JDK 17 with Apt on Ubuntu
-
-
-### Install the Default JRE/JDK
+### Install Default JRE/JDK with Apt on Ubuntu
 
 The easiest option for installing Java is to use the version packaged with 
 Ubuntu.
+
+### Install Oracle JDK 17 with Apt on Ubuntu
+
 
 
 

@@ -3,7 +3,7 @@
     "enabled": true, 
     "externalUuid4": "fded9ce5-0608-453e-b9f8-1fab25a302fa", 
     "isBlueprint": true, 
-    "key": "installjavajdk17withaptonubuntu", 
+    "key": "installoraclejdk17withaptonubuntu", 
     "links": [
         {
             "order": 150, 
@@ -26,6 +26,6 @@
             "stepKey": "settheoraclejdkjavahomeenvironmentpath"
         }
     ], 
-    "name": "Install Java JDK 17 with Apt on Ubuntu", 
+    "name": "Install Oracle JDK 17 with Apt on Ubuntu", 
     "type": "com.servertribe.attune.tuples.StepGroupTuple"
 }

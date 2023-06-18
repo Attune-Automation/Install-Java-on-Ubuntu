@@ -3,4 +3,4 @@ echo debconf shared/accepted-oracle-license-v1-3 select true | \
   debconf-set-selections
 echo debconf shared/accepted-oracle-license-v1-3 seen true | \
   debconf-set-selections
-apt install oracle-java17-installer-local -y
+apt install oracle-java17-installer -y
